@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &639099400308044423
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 634546238721925292, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: lowBeamHeadLightsOn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 819302409430436291, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: lowBeamHeadLightsOn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2088949722571936611, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: lowBeamHeadLightsOn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630365, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_Name
+      value: Cars with lights
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -32.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -27.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359550314926630370, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6205793354527305903, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: lowBeamHeadLightsOn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6422092857606379006, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: lowBeamHeadLightsOn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586671726398812244, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8946049132841070476, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00464b531af72ff439d3acdf24ca9de1, type: 3}
